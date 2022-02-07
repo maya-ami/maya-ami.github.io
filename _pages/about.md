@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Maiia Bikmetova"
+title: "Maiia Bikmetova, NLP Data Scientist"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
