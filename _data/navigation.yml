@@ -14,9 +14,7 @@ main:
         
   - title: "Blog Posts"
     url: /year-archive/
-    
-  - title: "My synthetic voice"
-    url: /voice/  
+ 
   
   - title: "CV"
     url: /cv/
