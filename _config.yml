@@ -7,12 +7,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : <html><head>
+title                    : "<html><head>
                             <link href="https://fonts.googleapis.com/css?family=Judson&amp;subset=all" rel="stylesheet" type="text/css">
                             <style>* {font-family: Judson, sans-serif; font-size: 36px;}</style>
                           </head><body>
                             <p>ðə ˈnoɹθ ˌwɪnd</p>
-                          </body></html>
+                          </body></html>"
 title_separator          : "-"
 name                     : &name "Maiia Bikmetova"
 description              : &description "personal description"
