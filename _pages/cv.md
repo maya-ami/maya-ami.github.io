@@ -23,8 +23,8 @@ Work experience
   * RN-BashNIPIneft, LLC (Research Institute of Rosneft)
   * Duties included:
     * Developing machine learning models for text classification and named entity recognition.
-    * Built a dialogue system.
     * Adapted a pre-trained speech recognition system to an oil and gas domain.
+    * Built a dialogue system for enterprise software.
 
   
 Skills
