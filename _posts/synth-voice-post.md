@@ -1,6 +1,6 @@
 ---
 title: 'My synthetic voice'
-date: 2022-02-08
+date: 2022-02-07
 permalink: /posts/2022/02/my-synthetic-voice/
 tags:
   - speech synthesis
@@ -10,11 +10,14 @@ tags:
 Synthetic speech samples
 ======
 
-<p>
-<p>
-<p>1. "Happiness isn't in the having. It's in just being. It's in just saying it.""</p>
+All wave files have the following characteristics: 1 channel, 16-bit, 16kHz sampling rate.
 
-<table>
+<html>
+<p>
+<p>
+<p>1. "Happiness isn't in the having. It's in just being. It's in just saying it."</p>
+
+<table style="border: 1px solid transparent">
   <tr>
     <th>Unit selection voice built with Festival</th>
     <th>Voice cloning with DNNs</th>
@@ -24,24 +27,25 @@ Synthetic speech samples
   <tr>
     <td>
       <audio controls>
-        <source src="https://maya-ami.github.io/files/happiness_us.wav" type="audio/x-wav">
+        <source src="../files/happiness_us.wav" type="audio/x-wav">
       Your browser does not support the audio element.  
       </audio>
     </td>
 
     <td>
       <audio controls>
-        <source src="https://maya-ami.github.io/files/happiness_nn.wav" type="audio/x-wav">
+        <source src="../files/happiness_nn.wav" type="audio/x-wav">
       Your browser does not support the audio element.  
       </audio>
     </td>
 
     <td>
       <audio controls>
-        <source src="https://maya-ami.github.io/files/happiness_og.ogg" type="audio/ogg">
+        <source src="../files/happiness_og.wav" type="audio/x-wav">
       Your browser does not support the audio element.  
       </audio>
     </td>
 
   <tr>
 </table>
+</html
