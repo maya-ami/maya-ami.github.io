@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * MSc in Speech and Language Processing, The University of Edinburgh, 2017-2018
-  * Thesis: Grapheme-to-Metaphoneme Conversion for Unisyn and Combilex Baseform Transcriptions. (Supervisor: Dr Korin Richmond)
+  * Thesis: Grapheme-to-Metaphoneme Conversion for Unisyn and Combilex Baseform Transcriptions.
   * Relevant coursework: Speech Synthesis, Automatic Speech Recognition, Computer Programming for Speech and
 Language Processing, Introduction to Phonology and Phonetics, Accelerated Natural Language Processing.
 * BA in Linguistics, Bashkir State University, 2013-2017
@@ -26,14 +26,14 @@ Work experience
     * Adapted a pre-trained speech recognition system to an oil and gas domain.
     * Built a dialogue system for enterprise software.
 
-  
+
 Skills
 ======
 * Python: data analysis, backend web development, OOP.
 * Natural Language Processing: classical techniques (n-grams, tf-idf), deep learning approaches (RNNs, Seq2Seq, Transformers).
-* Speech Processing: concatenative and neural speech synthesis, HMM-based ASR.
+* Speech Processing: speech data analysis, feature extraction, concatenative and neural speech synthesis, automatic speech recognition.
 * Machine Learning
-* Linguistics: Phonetics, phonology of English.
+* Linguistics: Phonetics, phonology of English, IPA, morphology.
 * Languages: Russian (native), English (advanced), German (Basic), Italian (Basic).
 
 <!-- Publications
@@ -41,7 +41,7 @@ Skills
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -53,7 +53,7 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
-  
+
 Scholarships and Awards
 ======
 * First Prize at Data Science Championship. Moscow, november 2020
