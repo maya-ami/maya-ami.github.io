@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ə ˈlɪŋgwɪst frɒm ðəˈnoɹθ"
+title                    : "ə ˈlɪŋgwɪst frɒm ðə ˈnoɹθ"
 title_separator          : "-"
 name                     : &name "Maiia Bikmetova"
 description              : &description "personal description"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "maiia-bikmetova/"
-  orcid            : 
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : "10815394/maya-ami"
