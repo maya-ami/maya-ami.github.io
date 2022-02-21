@@ -34,7 +34,7 @@ Skills
 * Speech Processing: speech data analysis, feature extraction, concatenative and neural speech synthesis, automatic speech recognition.
 * Machine Learning
 * Linguistics: Phonetics, phonology of English, IPA, morphology.
-* Languages: Russian (native), English (advanced), German (Intermediate), Italian (Basic), Tatar (basic).
+* Languages: Russian (native), English (advanced), German (basic), Italian (Basic).
 
 <!-- Publications
 ======
