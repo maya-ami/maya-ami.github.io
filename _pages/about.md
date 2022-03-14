@@ -13,6 +13,6 @@ redirect_from:
 
 <h2>Russian G2P</h2>
 
-<div style="text-align: justify;">Here is a tool that can automatically translate Russian texts to International Phonetic Alphabet (IPA). NB: this tool is a side project that I work on in my spare time. It's still under development and may lack some of the planned functionalities.</div>
+<div style="text-align: justify;">Here is a tool that can automatically translate Russian texts to International Phonetic Alphabet (IPA). <b>NB:</b> this tool is a side project that I work on in my spare time. It's still under development and may lack some of the planned functionalities.</div>
 
-<iframe src="https://ru-transcribe.herokuapp.com/" height="800" width="120%" frameBorder="0"></iframe>
+<iframe src="https://ru-transcribe.herokuapp.com/" height="800" width="110%" frameBorder="0"></iframe>
